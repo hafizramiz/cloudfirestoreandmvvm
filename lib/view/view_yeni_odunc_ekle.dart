@@ -63,7 +63,6 @@ class YeniOduncEkleView extends StatelessWidget {
                                           context,
                                           listen: false)
                                       .setPhotoUrlData(photoRefPathID);
-
                                 },
                                 icon: Icon(
                                   Icons.camera_alt,
